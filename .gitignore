@@ -1,3 +1,7 @@
+#Others
+.vscode/
+
+#ROS default
 devel/
 logs/
 build/
